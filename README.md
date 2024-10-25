@@ -35,8 +35,8 @@ Build a React.js web app for effective expense tracking, allowing users to add, 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/MayurDange15/EXPENSE-TRACKER.git
-   cd EXPENSE-TRACKER
+   git clone https://github.com/Khushboo0820/Expense-tracker.git
+   cd expense-tracker
    ```
 
 2. **Install Dependencies**:
