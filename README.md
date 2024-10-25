@@ -23,8 +23,8 @@ Build a React.js web app for effective expense tracking, allowing users to add, 
 
 ## Usage
 
--**Add Balance**: Increase your wallet balance by clicking the "Add Balance" button.
--**Add Expense**: Use the "Add Expense" form to record new expenses with a category and date.
+- **Add Balance**: Increase your wallet balance by clicking the "Add Balance" button.<br>
+- **Add Expense**: Use the "Add Expense" form to record new expenses with a category and date.
 -**Edit Expense**: Modify an expense's details by selecting the "Edit" button.
 -**Delete Expense**: Remove an expense by clicking the "Delete" button.
 -**View Summary**: Review your categorized expenses with a pie chart.
