@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import AddBalanceForm from "./components/Forms/AddBalanceForm/AddBalanceForm";
+import AddBalanceForm from "./components/Forms/AddBalanceForm/AddbalanceForm";
 import ExpenseForm from "./components/Forms/ExpenseForm/ExpenseForm";
-import TransactionList from "./components/Transactions/TransactionList/TransactionList";
+import TransactionList from "./components/Transaction/TransactionList/TransactionList";
 import ExpensePieChart from "./components/Charts/PieChart/PieChart";
 import ExpenseBarChart from "./components/Charts/BarChart/BarChart";
 import Modal from "./components/Modal/Modal";
