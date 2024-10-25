@@ -30,7 +30,11 @@ Build a React.js web app for effective expense tracking, allowing users to add, 
 - **View Summary**: Review your categorized expenses with a pie chart.<br>
 - **View Trends**: Analyze spending patterns by category using the bar chart.
 
- ## Installation
+## Local Storage
+
+The wallet balance and expenses list are saved in localStorage to ensure data persists across page refreshes. On loading the app, data is retrieved from localStorage to maintain the current wallet balance and expense history.
+
+## Installation
 
 1. **Clone the Repository**:
 
