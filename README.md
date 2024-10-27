@@ -40,7 +40,7 @@ The wallet balance and expenses list are saved in localStorage to ensure data pe
 
    ```bash
    git clone https://github.com/Khushboo0820/Expense-tracker.git
-   cd expensetracker
+   cd Expense-tracker
    ```
 
 2. **Install Dependencies**:
